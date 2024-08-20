@@ -1,0 +1,233 @@
+1876;JM;XXXX X XX;Jamaica
+1869;KN;XXXX X XX;Saint Kitts & Nevis
+1868;TT;XXXX X XX;Trinidad & Tobago
+1784;VC;XXXX X XX;Saint Vincent & the Grenadines
+1767;DM;XXXX X XX;Dominica
+1758;LC;XXXX X XX;Saint Lucia
+1721;SX;XXXX X XX;Sint Maarten
+1684;AS;XXXX X XX;American Samoa
+1671;GU;XXXX X XX;Guam
+1670;MP;XXXX X XX;Northern Mariana Islands
+1664;MS;XXXX X XX;Montserrat
+1649;TC;XXXX X XX;Turks & Caicos Islands
+1473;GD;XXXX X XX;Grenada
+1441;BM;XXXX X XX;Bermuda
+1345;KY;XXXX X XX;Cayman Islands
+1340;VI;XXXX X XX;US Virgin Islands
+1284;VG;XXXX X XX;British Virgin Islands
+1268;AG;XXXX X XX;Antigua & Barbuda
+1264;AI;XXXX X XX;Anguilla
+1246;BB;XXXX X XX;Barbados
+1242;BS;XXXX X XX;Bahamas
+998;UZ;XXXX X XX;Uzbekistan
+996;KG;XXXX X XX;Kyrgyzstan
+995;GE;XXXX X XX;Georgia
+994;AZ;XXXX X XX;Azerbaijan
+993;TM;XXXX X XX;Turkmenistan
+992;TJ;XXXX X XX;Tajikistan
+977;NP;XXXX X XX;Nepal
+976;MN;XXXX X XX;Mongolia
+975;BT;XXXX X XX;Bhutan
+974;QA;XXXX X XX;Qatar
+973;BH;XXXX X XX;Bahrain
+972;IL;XXXX X XX;Israel
+971;AE;XXXX X XX;United Arab Emirates
+970;PS;XXXX X XX;Palestine
+968;OM;XXXX X XX;Oman
+967;YE;XXXX X XX;Yemen
+966;SA;XXXX X XX;Saudi Arabia
+965;KW;XXXX X XX;Kuwait
+964;IQ;XXXX X XX;Iraq
+963;SY;XXXX X XX;Syrian Arab Republic
+962;JO;XXXX X XX;Jordan
+961;LB;XXXX X XX;Lebanon
+960;MV;XXXX X XX;Maldives
+886;TW;XXXX X XX;Taiwan
+880;BD;XXXX X XX;Bangladesh
+856;LA;XXXX X XX;Laos
+855;KH;XXXX X XX;Cambodia
+853;MO;XXXX X XX;Macau
+852;HK;XXXX X XX;Hong Kong
+850;KP;XXXX X XX;North Korea
+692;MH;XXXX X XX;Marshall Islands
+691;FM;XXXX X XX;Micronesia
+690;TK;XXXX X XX;Tokelau
+689;PF;XXXX X XX;French Polynesia
+688;TV;XXXX X XX;Tuvalu
+687;NC;XXXX X XX;New Caledonia
+686;KI;XXXX X XX;Kiribati
+685;WS;XXXX X XX;Samoa
+683;NU;XXXX X XX;Niue
+682;CK;XXXX X XX;Cook Islands
+681;WF;XXXX X XX;Wallis & Futuna
+680;PW;XXXX X XX;Palau
+679;FJ;XXXX X XX;Fiji
+678;VU;XXXX X XX;Vanuatu
+677;SB;XXXX X XX;Solomon Islands
+676;TO;XXXX X XX;Tonga
+675;PG;XXXX X XX;Papua New Guinea
+674;NR;XXXX X XX;Nauru
+673;BN;XXXX X XX;Brunei Darussalam
+672;NF;XXXX X XX;Norfolk Island
+670;TL;XXXX X XX;Timor-Leste
+599;BQ;XXXX X XX;Bonaire, Sint Eustatius & Saba
+599;CW;XXXX X XX;Curaçao
+598;UY;XXXX X XX;Uruguay
+597;SR;XXXX X XX;Suriname
+596;MQ;XXXX X XX;Martinique
+595;PY;XXXX X XX;Paraguay
+594;GF;XXXX X XX;French Guiana
+593;EC;XXXX X XX;Ecuador
+592;GY;XXXX X XX;Guyana
+591;BO;XXXX X XX;Bolivia
+590;GP;XXXX X XX;Guadeloupe
+509;HT;XXXX X XX;Haiti
+508;PM;XXXX X XX;Saint Pierre & Miquelon
+507;PA;XXXX X XX;Panama
+506;CR;XXXX X XX;Costa Rica
+505;NI;XXXX X XX;Nicaragua
+504;HN;XXXX X XX;Honduras
+503;SV;XXXX X XX;El Salvador
+502;GT;XXXX X XX;Guatemala
+501;BZ;XXXX X XX;Belize
+500;FK;XXXX X XX;Falkland Islands
+423;LI;XXXX X XX;Liechtenstein
+421;SK;XXXX X XX;Slovakia
+420;CZ;XXXX X XX;Czech Republic
+389;MK;XXXX X XX;Macedonia
+387;BA;XXXX X XX;Bosnia & Herzegovina
+386;SI;XXXX X XX;Slovenia
+385;HR;XXXX X XX;Croatia
+382;ME;XXXX X XX;Montenegro
+381;RS;XXXX X XX;Serbia
+380;UA;XXXX X XX;Ukraine
+378;SM;XXXX X XX;San Marino
+377;MC;XXXX X XX;Monaco
+376;AD;XXXX X XX;Andorra
+375;BY;XXXX X XX;Belarus
+374;AM;XXXX X XX;Armenia
+373;MD;XXXX X XX;Moldova
+372;EE;XXXX X XX;Estonia
+371;LV;XXXX X XX;Latvia
+370;LT;XXXX X XX;Lithuania
+359;BG;XXXX X XX;Bulgaria
+358;FI;XXXX X XX;Finland
+357;CY;XXXX X XX;Cyprus
+356;MT;XXXX X XX;Malta
+355;AL;XXXX X XX;Albania
+354;IS;XXXX X XX;Iceland
+353;IE;XXXX X XX;Ireland
+352;LU;XXXX X XX;Luxembourg
+351;PT;XXXX X XX;Portugal
+350;GI;XXXX X XX;Gibraltar
+299;GL;XXXX X XX;Greenland
+298;FO;XXXX X XX;Faroe Islands
+297;AW;XXXX X XX;Aruba
+291;ER;XXXX X XX;Eritrea
+290;SH;XXXX X XX;Saint Helena
+269;KM;XXXX X XX;Comoros
+268;SZ;XXXX X XX;Swaziland
+267;BW;XXXX X XX;Botswana
+266;LS;XXXX X XX;Lesotho
+265;MW;XXXX X XX;Malawi
+264;NA;XXXX X XX;Namibia
+263;ZW;XXXX X XX;Zimbabwe
+262;RE;XXXX X XX;Réunion
+261;MG;XXXX X XX;Madagascar
+260;ZM;XXXX X XX;Zambia
+258;MZ;XXXX X XX;Mozambique
+257;BI;XXXX X XX;Burundi
+256;UG;XXXX X XX;Uganda
+255;TZ;XXXX X XX;Tanzania
+254;KE;XXXX X XX;Kenya
+253;DJ;XXXX X XX;Djibouti
+252;SO;XXXX X XX;Somalia
+251;ET;XXXX X XX;Ethiopia
+250;RW;XXXX X XX;Rwanda
+249;SD;XXXX X XX;Sudan
+248;SC;XXXX X XX;Seychelles
+247;SH;XXXX X XX;Saint Helena
+246;IO;XXXX X XX;Diego Garcia
+245;GW;XXXX X XX;Guinea-Bissau
+244;AO;XXXX X XX;Angola
+243;CD;XXXX X XX;Congo (Dem. Rep.)
+242;CG;XXXX X XX;Congo (Rep.)
+241;GA;XXXX X XX;Gabon
+240;GQ;XXXX X XX;Equatorial Guinea
+239;ST;XXXX X XX;São Tomé & Príncipe
+238;CV;XXXX X XX;Cape Verde
+237;CM;XXXX X XX;Cameroon
+236;CF;XXXX X XX;Central African Rep.
+235;TD;XXXX X XX;Chad
+234;NG;XXXX X XX;Nigeria
+233;GH;XXXX X XX;Ghana
+232;SL;XXXX X XX;Sierra Leone
+231;LR;XXXX X XX;Liberia
+230;MU;XXXX X XX;Mauritius
+229;BJ;XXXX X XX;Benin
+228;TG;XXXX X XX;Togo
+227;NE;XXXX X XX;Niger
+226;BF;XXXX X XX;Burkina Faso
+225;CI;XXXX X XX;Côte d`Ivoire
+224;GN;XXXX X XX;Guinea
+223;ML;XXXX X XX;Mali
+222;MR;XXXX X XX;Mauritania
+221;SN;XXXX X XX;Senegal
+220;GM;XXXX X XX;Gambia
+218;LY;XXXX X XX;Libya
+216;TN;XXXX X XX;Tunisia
+213;DZ;XXXX X XX;Algeria
+212;MA;XXXX X XX;Morocco
+211;SS;XXXX X XX;South Sudan
+98;IR;XXXX X XX;Iran
+95;MM;XXXX X XX;Myanmar
+94;LK;XXXX X XX;Sri Lanka
+93;AF;XXXX X XX;Afghanistan
+92;PK;XXXX X XX;Pakistan
+91;IN;XXXX X XX;India
+90;TR;XXXX X XX;Turkey
+86;CN;XXXX X XX;China
+84;VN;XXXX X XX;Vietnam
+82;KR;XXXX X XX;South Korea
+81;JP;XXXX X XX;Japan
+66;TH;XXXX X XX;Thailand
+65;SG;XXXX X XX;Singapore
+64;NZ;XXXX X XX;New Zealand
+63;PH;XXXX X XX;Philippines
+62;ID;XXXX X XX;Indonesia
+61;AU;XXXX X XX;Australia
+60;MY;XXXX X XX;Malaysia
+58;VE;XXXX X XX;Venezuela
+57;CO;XXXX X XX;Colombia
+56;CL;XXXX X XX;Chile
+55;BR;XXXX X XX;Brazil
+54;AR;XXXX X XX;Argentina
+53;CU;XXXX X XX;Cuba
+52;MX;XXXX X XX;Mexico
+51;PE;XXXX X XX;Peru
+49;DE;XXXX X XX;Germany
+48;PL;XXXX X XX;Poland
+47;NO;XXXX X XX;Norway
+46;SE;XXXX X XX;Sweden
+45;DK;XXXX X XX;Denmark
+44;GB;XXXX X XX;United Kingdom
+43;AT;XXXX X XX;Austria
+41;CH;XXXX X XX;Switzerland
+40;RO;XXXX X XX;Romania
+39;IT;XXXX X XX;Italy
+36;HU;XXXX X XX;Hungary
+34;ES;XXXX X XX;Spain
+33;FR;XXXX X XX;France
+32;BE;XXXX X XX;Belgium
+31;NL;XXXX X XX;Netherlands
+30;GR;XXXX X XX;Greece
+27;ZA;XXXX X XX;South Africa
+20;EG;XXXX X XX;Egypt
+7;RU;XXXX X XX;Russian Federation
+7;KZ;XXXX X XX;Kazakhstan
+1;US;XXXX X XX;USA
+1;PR;XXXX X XX;Puerto Rico
+1;DO;XXXX X XX;Dominican Rep.
+1;CA;XXXX X XX;Canada
+383;XXXXX X XX;K;Kosovo
+
